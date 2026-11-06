@@ -1,0 +1,1 @@
+Place your 1024x1024 app icon here and name it icon.png

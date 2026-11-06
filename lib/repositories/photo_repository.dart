@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:http/http.dart' as http;
 
 // Replace with your Cloudinary cloud name and upload preset from cloudinary.com
-const _cloudName = 'YOUR_CLOUD_NAME';
-const _uploadPreset = 'YOUR_UPLOAD_PRESET';
+const _cloudName = 'pthv2wfu';
+const _uploadPreset = 'myweek_unsigned';
 
 class PhotoRepository {
   Future<String> upload(File photo) async {
